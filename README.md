@@ -44,7 +44,7 @@ An idea for an app I would like to implement would be a version of the board gam
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge that I encountered while making this app was familiarizing myself with xCode's UI and navigating to the correct tabs.
 
 ## License
 
